@@ -1,0 +1,6 @@
+Wymagane moduły:
+- pandas
+- statsmodels.api
+- matplotlib.pyplot
+- z modułu matplotlib.backends.backend_tkagg klasa FigureCanvasTkAgg
+- tkinter
