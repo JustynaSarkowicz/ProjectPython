@@ -1,0 +1,2 @@
+Projekt polegał na stworzeniu modelu regresji liniowej, analizującego zależność między PKB a konsumpcją. Dane do analizy zostały pobrane z plików CSV dostępnych na stronie OECD. Zostały wykorzystane odpowiednie biblioteki. Raport został stworzony w programie Doxygen.
+Stworzony został również interfejs graficzny, gdzie użytkownik może zobaczyć model regresji, jego podsumowanie, ocenę oraz dodatkowe wykresy. 
